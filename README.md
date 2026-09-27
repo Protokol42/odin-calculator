@@ -1,6 +1,6 @@
 # odin-calculator
 
-This project is a web-based calculator built as part of The Odin Project curriculum[cite: 3].
+This project is a web-based calculator built as part of The Odin Project curriculum.
 
 https://protokol42.github.io/odin-calculator/
 
